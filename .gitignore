@@ -1,0 +1,37 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+*.pidb
+*.booproj
+*.suo
+*.user
+*.userprefs
+*.unitypackage
+*.csproj
+*.sln
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider / VSCode / Visual Studio
+.vscode/
+.idea/
+*.sln
+*.csproj
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Bỏ qua texture nặng
+Assets/Classical_city/Textures/
+Assets/Garage/Source/Textures/
+
